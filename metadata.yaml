@@ -1,0 +1,38 @@
+_repo: John-s-Other-Practice_66360
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Bill
+    - Terry, Willis E.
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Marks, Winston K. (Winston Kinney)
+    alias: Marks, Winston Kinney
+    birthdate: 1915
+    deathdate: 1979
+    gutenberg_agent_id: '26841'
+    url: http://www.gutenberg.org/2009/agents/26841
+description: ''
+gutenberg_issued: '2021-09-22'
+identifiers:
+  gutenberg: '66360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Physicians -- Fiction'
+- GITenberg
+title: John's Other Practice
+url: http://www.gutenberg.org/ebooks/66360
